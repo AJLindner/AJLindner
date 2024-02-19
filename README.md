@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub language count](https://img.shields.io/github/languages/count/AJLindner)
+
 <!--
 **AJLindner/AJLindner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
