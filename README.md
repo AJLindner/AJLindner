@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![GitHub language count](https://img.shields.io/github/languages/count/AJLindner)
 
 <!--
