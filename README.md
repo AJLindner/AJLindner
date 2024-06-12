@@ -6,7 +6,7 @@
   [![Website Badge](https://img.shields.io/badge/ajlindner.net-CC0000?style=flat-square&logo=jekyll&logoColor=white)](https://ajlindner.net)
   [![Hashnode Badge](https://img.shields.io/badge/@ajlindner-2962FF?style=flat-square&logo=HashNode&logoColor=white)](https://blog.ajlindner.net)
   [![Proton Mail Badge](https://img.shields.io/badge/aj@ajlindner.net-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:aj@ajlindner.net)
-  [![LinkedIn Badge](https://img.shields.io/badge/ajlindner-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajlindner/)
+  [![LinkedIn Badge](https://img.shields.io/badge/in/ajlindner-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajlindner/)
   [![Reddit Badge](https://img.shields.io/badge/u/ajlindner-FF4500?style=flat-square&logo=Reddit&logoColor=white)](https://www.reddit.com/user/AJLindner/)
 </div>
 
